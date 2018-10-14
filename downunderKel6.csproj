@@ -300,8 +300,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Obstacles\Scripts\CharScript.cs" />
     <Compile Include="Assets\Obstacles\Scripts\GameManager.cs" />
     <Compile Include="Assets\Obstacles\Scripts\obj_1_script.cs" />
+    <Compile Include="Assets\Obstacles\Scripts\Parallax.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />
